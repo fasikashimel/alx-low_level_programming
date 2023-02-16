@@ -1,5 +1,8 @@
 #include <stdio.h>
-int main()
+
+int main(void)
 {
-    printf("fasika shimels");
+	printf("\"Programming is like building a multilingual puzzle");
+
+	return (0);
 }
