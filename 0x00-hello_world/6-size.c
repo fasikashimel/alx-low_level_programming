@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-/*
- * Name Fasika Shimels
- * alx student
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
