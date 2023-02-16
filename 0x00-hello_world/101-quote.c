@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include <unistd.h>
 
 /**
- * fasika shimels
+ * main - Entry point
+ *
+ * Return: Always 1 (Success)
  */
 
 int main(void)
